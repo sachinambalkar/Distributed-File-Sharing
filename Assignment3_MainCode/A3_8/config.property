@@ -1,0 +1,11 @@
+UploadServerPort = 5580
+ServerPort = 4480
+TotalPeer = 8
+Client1 = 10.0.0.30:4410
+Client2 = 10.0.0.30:4420
+Client3 = 10.0.0.30:4430
+Client4 = 10.0.0.30:4440
+Client5 = 10.0.0.30:4450
+Client6 = 10.0.0.30:4460
+Client7 = 10.0.0.30:4470
+Client8 = 10.0.0.30:4480

@@ -1,0 +1,4 @@
+indexServerIPaddress= 192.168.0.106
+indexServerPort = 8888
+clientLocalServerPort = 5432
+localfileServerPort = 5234
